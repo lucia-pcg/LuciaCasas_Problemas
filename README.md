@@ -11,7 +11,7 @@ https://leetcode.com/problems/relative-sort-array/description/
 **Estructuras lineales: _Implement Queue using Stacks:_**  
 https://leetcode.com/problems/implement-queue-using-stacks/description/
 
-**Estructuras no lineales: _Implement Queue using Stacks:_**  
+**Estructuras no lineales: _Lowest Common Ancestor of a Binary Tree:_**  
 https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/
 
 --
