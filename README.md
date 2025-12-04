@@ -3,7 +3,7 @@
 
 ### Problemas:
 
-**Algoritmos de ordenamiento: _Merge Sorted Array:_**  
+**Algoritmos de ordenamiento: _Relative Sort Array:_**  
 https://leetcode.com/problems/merge-sorted-array/description/
 
 https://leetcode.com/problems/relative-sort-array/description/
