@@ -4,7 +4,7 @@ public:
     stack<int> outStack;  // aquí están los elementos listos para salir
 
     MyQueue() {
-        // constructor vacío, no necesito poner nada
+        // constructor vacío
     }
     
     void push(int x) {
