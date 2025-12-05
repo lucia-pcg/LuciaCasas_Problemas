@@ -4,8 +4,6 @@
 ### Problemas:
 
 **Algoritmos de ordenamiento: _Relative Sort Array:_**  
-https://leetcode.com/problems/merge-sorted-array/description/
-
 https://leetcode.com/problems/relative-sort-array/description/
 
 **Estructuras lineales: _Implement Queue using Stacks:_**  
